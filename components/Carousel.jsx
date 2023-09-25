@@ -25,15 +25,16 @@ const Carousel = () => {
   };
 
   return (
-    <div className="h-full w-full -mt-[200px]">
+    <div className="  -mt-[2000px] ">
       <video autoPlay
     loop
     muted
-    className=" z-10 w-auto min-w-full min-h-full max-w-80"
+    className=" z-10  min-w-full  "
   >
     <source
-      src="/Adsız tasarım.mp4"
+      src="/Adsız tasarım (1).mp4"
       type="video/mp4"
+
     />
     Your browser does not support the video tag.
       </video>
